@@ -1,5 +1,6 @@
 # Wafers scratch detection 
 ### This notebook focuses on detecting the location of scratches on wafers, rather than simply predicting whether a scratch exists or not. The goal is to predict the precise location of the scratch pixels on the wafer.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gilzeevi25.ScratchDetection.issue.1) <br/>
 
 It is a proposed solution for an assignment published by National Instruments: [NI Scratch detection assignment](https://github.com/NI-DS/scratch_detection_assignment)
 <br><br>
