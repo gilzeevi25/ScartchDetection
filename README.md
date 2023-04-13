@@ -8,4 +8,6 @@ While the resulting F1 score may not be optimal, the notebook contains well-desi
 Additionally, the notebook demonstrates how to fine-tune a LightGBM algorithm with an extremely imbalanced dataset, and concludes by implementing an ensemble of LightGBM models to avoid overfitting.<br>
 In the end i conclude and suggest more ways to expand and improve my suggested solution
 <br><br>
-![An example of a wafer](https://github.com/gilzeevi25/ScartchDetection/blob/main/exmp_wafer.png)
+Example I             |  Example II 
+:-------------------------:|:-------------------------:
+![](https://github.com/gilzeevi25/ScartchDetection/blob/main/exmp_wafer.png)  |  ![](https://github.com/gilzeevi25/ScartchDetection/blob/main/exmp_waferII.png)
