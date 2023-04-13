@@ -1,8 +1,10 @@
 # Wafers scratch detection 
-## The topic of this notebook is the detection of scratches on wafers.
+### This notebook focuses on detecting the location of scratches on wafers, rather than simply predicting whether a scratch exists or not. The goal is to predict the precise location of the scratch pixels on the wafer.
+
 It is a proposed solution for an assignment published by National Instruments: [NI Scratch detection assignment](https://github.com/NI-DS/scratch_detection_assignment)
 <br><br>
 While the resulting F1 score may not be optimal, the notebook contains well-designed tabular features created through image processing techniques.<br>
 Additionally, the notebook demonstrates how to fine-tune a LightGBM algorithm with an extremely imbalanced dataset, and concludes by implementing an ensemble of LightGBM models to avoid overfitting.<br>
 In the end i conclude and suggest more ways to expand and improve my suggested solution
+<br><br>
 ![An example of a wafer](https://github.com/gilzeevi25/ScartchDetection/blob/main/exmp_wafer.png)
